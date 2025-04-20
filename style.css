@@ -115,8 +115,8 @@
 }
 
 .card-body p {
-    font-size: 9px;
-    font-weight: 300;
+    font-size: 6px;
+    font-weight: 270;
 }
 .card-body p+p {
     margin-top: 10px;
