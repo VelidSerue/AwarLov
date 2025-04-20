@@ -25,7 +25,7 @@
 }
 
 .envelope.open .card {
-    transform: rotateZ(-15deg) scale(230%);
+    transform: rotateZ(-15deg) scale(2);
     transition: transform 1s ease;
     transition-delay: 1750ms;
 }
